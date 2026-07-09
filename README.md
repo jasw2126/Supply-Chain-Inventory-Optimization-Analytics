@@ -230,19 +230,7 @@ python eda_analysis.py
 python ml_model.py
 ```
 
-All outputs (cleaned data, dashboards, trained models) are generated automatically into the `data/`, `visuals/`, and `models/` folders.
 
----
-
-## 📝 Resume Description
-
-> **Supply Chain Inventory Optimization Analytics** — Built an end-to-end Python analytics pipeline analyzing 6,000+ supply chain transactions across 250 products, 5 warehouses, and 6 suppliers; engineered 9 business KPIs (inventory turnover, stock risk, profit margin, supplier delay), produced 6 professional BI dashboard reports (Matplotlib/Seaborn), and developed Random Forest models for demand forecasting (R² 0.39) and inventory risk classification (98% accuracy, 79% F1) using Scikit-learn, enabling data-driven reorder and supplier-performance decisions.
-
----
-
-## 👤 Author
-
-Data Analytics Portfolio Project — built to demonstrate practical, production-style skills in data cleaning, business analytics, dashboard reporting, and applied machine learning using only core Python data science libraries.
 
 ---
 
